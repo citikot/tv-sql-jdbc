@@ -1,0 +1,2 @@
+DROP TABLE author;
+DROP TABLE IF EXISTS author ;
