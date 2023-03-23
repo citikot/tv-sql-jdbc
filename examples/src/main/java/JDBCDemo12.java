@@ -1,4 +1,3 @@
-package 12-JDBCDemo.java
 
 import java.sql.DriverManager;
 import java.sql.ResultSet;
@@ -6,7 +5,7 @@ import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class JDBCDemo {
+public class JDBCDemo12 {
 
     private static final String URL = "jdbc:mysql://localhost:3306/bookstore?useUnicode=yes&characterEncoding=UTF8&useSSL=false";
     private static final String USER = "test";

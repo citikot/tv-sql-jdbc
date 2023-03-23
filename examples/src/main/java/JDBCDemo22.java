@@ -1,7 +1,7 @@
 import java.sql.*;
 
 
-public class JDBCDemo {
+public class JDBCDemo22 {
 
     private static final String URL = "jdbc:mysql://localhost:3306/bookstore?useUnicode=yes&characterEncoding=UTF8&useSSL=false";
     private static final String USER = "test";
